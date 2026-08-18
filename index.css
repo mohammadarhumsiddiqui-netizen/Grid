@@ -49,3 +49,7 @@ body {
 .box:nth-child(8) {
     grid-area: box8;
 }
+.head {
+    font color: red;
+    font-size: 4rem;
+    
