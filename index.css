@@ -50,6 +50,6 @@ body {
     grid-area: box8;
 }
 .head {
-    font color: red;
+    font-color: red;
     font-size: 4rem;
     
